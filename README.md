@@ -270,5 +270,3 @@ arecord > pipe
 ```bash
 ffmpeg + pv = stable real-time streaming
 ```
-
-That’s what makes this feel like a real product instead of a fragile hack.
