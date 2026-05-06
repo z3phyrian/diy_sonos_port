@@ -7,6 +7,9 @@ Play a USB turntable through Sonos (like a Sonos Arc) without buying a Sonos Por
 ## 🧰 What you need
 
 - Raspberry Pi (Pi 4 or Pi 5 recommended)
+  - Monitor
+  - Keyboard + Mouse
+  - Internet Connection
 - USB turntable (e.g. Audio-Technica AT-LP120XBT-USB)
 - Ethernet or solid WiFi
 - Sonos speaker with AirPlay (Arc, One, etc.)
